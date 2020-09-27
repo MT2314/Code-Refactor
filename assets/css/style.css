@@ -98,8 +98,7 @@ p {
 
 .content .card {
 
-    display: flex;
-    flex-direction: row;
+    
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -116,16 +115,9 @@ p {
 
 }
 
-.cardtext{
-
-    width:10vw;
-    height:35vh;
-    
-}
-
 .card h2 {
     margin-bottom: 20px;
-    font-size: 200%;
+    font-size: 36px;
 }
 
 /* Aside */
