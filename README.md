@@ -10,13 +10,13 @@ Full Stack Flex Program** - *Initial HTML and CSS*
 
 ## Job Requirements
 
-*Fix positioning 
-*Add accesibility functions
-*Optimize for search Engines
+- [ ] Fix positioning 
+- [ ] Add accesibility functions
+- [ ] Optimize for search Engines
 
-**AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines**
+> ** AS A marketing agency
+> I WANT a codebase that follows accessibility standards
+> SO THAT our own site is optimized for search engines **
 
 ## License
 Copyright (c) Microsoft Corporation. All rights reserved.
