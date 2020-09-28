@@ -12,7 +12,14 @@ body {
 
 a {
     color: #ffffff;
+    padding: 5px;
     text-decoration: none;
+    
+    
+}
+a:hover{
+    color: black;
+    background-color: #ffffff;
 }
 
 p {
@@ -98,7 +105,6 @@ p {
 
 .content .card {
 
-    
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
