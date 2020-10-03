@@ -36,6 +36,7 @@
 **University of Toronto Continuing Educationg
 Full Stack Flex Program** - *Initial HTML and CSS*
 :school:
+
 :heart: 
 **Students and Instructors At the UFT-FSF-2020-2021*
 :heart:
