@@ -21,7 +21,7 @@ p {
 
 /* Header */
 
-.header {
+header {
     
     position: relative;
     width:100%;
@@ -37,14 +37,14 @@ p {
     display: table;
   }
 
-.header h1 {
+h1 {
     display: inline-block;
     font-size: 48px;
 }
 
 
 /* Navigation Bar */
-.header nav {
+nav {
 
     padding-top: 15px;
     margin-right: 20px;
@@ -53,11 +53,11 @@ p {
     font-size: 20px;
 }
 
-.header nav ul {
+ul {
     list-style-type: none;
 }
 
-.header nav ul li {
+ul li {
     
     display: inline-block;
     margin-left: 25px;
@@ -88,6 +88,7 @@ p {
     margin-left: 25px;
 }
 
+
 /* Article */
 
 .content {
@@ -96,7 +97,7 @@ p {
     margin-left: 20px;
 }
 
-.content .card {
+.card {
 
     
     margin-bottom: 20px;
@@ -115,7 +116,7 @@ p {
 
 }
 
-.card h2 {
+h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -132,17 +133,17 @@ p {
     background-color: #2589bd;
 }
 
-.asidecard {
+aside {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.asidecard h3 {
+h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.asidecard img {
+aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
